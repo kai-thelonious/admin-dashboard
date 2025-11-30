@@ -1,5 +1,5 @@
 # Original
-![Original](dashboad-project.png)
+![Original](dashboard-project.png)
 
 <br>
 # My Attempt
